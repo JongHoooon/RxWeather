@@ -22,4 +22,4 @@
 
 import Foundation
 
-let apiKey = ""
+let apiKey = "448eba79552c9670b719755b74ba3a9e"

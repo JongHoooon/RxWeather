@@ -42,6 +42,4 @@ struct WeatherSummary: Codable {
     }
 
     let main: Main
-
-    
 }
